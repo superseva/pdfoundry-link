@@ -11,5 +11,8 @@
   "scripts": ["settings-extender.js"],
   "styles": [],
   "packs": [],  
-  "languages": []
+  "languages": [],
+"url": "https://github.com/superseva/pdfoundry-link",
+    "manifest": "https://raw.githubusercontent.com/superseva/pdfoundry-link/master/module.json",
+    "download": "https://github.com/superseva/pdfoundry-link/archive/master.zip"
 }
