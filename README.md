@@ -9,6 +9,6 @@ You can add a link in your info texts (journal/items) by using a HTML link with 
 **data-page** is the page to open pdf to.
 
 example link:
-<a class="pdfoundry_link" data-pdf="the_name_of_your_pdf" data-page="5">Page 5</a>
+```<a class="pdfoundry_link" data-pdf="the_name_of_your_pdf" data-page="5">Page 5</a>```
 
 You must enter a link in the html edit section ("<>" icon in the text editor)
